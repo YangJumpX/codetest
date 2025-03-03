@@ -1,14 +1,18 @@
 #pragma once
+#include"Core.h"
+
 namespace HGame {
 
-	class Application
+	class HG_API Application
 	{
 	public:
 		Application();
-		~Application();
+		virtual ~ Application();
 
 		void Run();
 		
 	};
+
+	Application* CreateApplication();
 }
 

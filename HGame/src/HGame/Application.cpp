@@ -12,4 +12,6 @@ namespace HGame {
 	{
 		while (true);
 	}
+
+
 }

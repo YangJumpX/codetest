@@ -21,6 +21,12 @@
     <ClInclude Include="src\HGame\Application.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="src\HGame.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\HGame\EnterPoint.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\HGame\Application.cpp">
